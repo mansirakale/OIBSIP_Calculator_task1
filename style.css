@@ -1,0 +1,38 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+  html, body{
+  	font-family: 'Montserrat', sans-serif;
+  	background-color: SlateBlue;
+
+
+  }
+
+.button{
+	padding: 20px;
+	margin: 3px;
+	border: 2px;
+	border-radius: 9px;
+	cursor: pointer;
+	width: 60px;
+	
+}
+
+.row{
+	margin: 8px;
+}
+
+.row input{
+	margin: 0;
+	padding: 10px 0px;
+	border-radius: 9px;
+	font-size: 20px;
+	width: 270px;
+}
+
+.cal{
+	width: 100px;
+	height: 100px;
+	background-color:  Azure;
+
+}
